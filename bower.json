@@ -1,0 +1,24 @@
+{
+  "name": "Winnitron Website",
+  "version": "0.1.0",
+  "authors": [
+    "Marlon Wiebe <mr.m.wiebe@gmail.com>"
+  ],
+  "description": "The homepage for The Winnitron Network",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "winnitron.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-css": "~3.0.1",
+    "sprockets-modernizr": "~2.6.2",
+    "bootstrap": "~3.2.0"
+  }
+}
