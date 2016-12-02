@@ -11,6 +11,10 @@ layout: default
   <section class="wrapper style5">
     <div class="inner">
       {{ content }}
+
+      {% if page.comments %}
+        {% include disqus.html %}
+      {% endif %}
     </div>
   </section>
 

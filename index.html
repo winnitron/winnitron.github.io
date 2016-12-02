@@ -62,9 +62,13 @@ layout: landing
 					<section id="three" class="wrapper style3 special">
 						<div class="inner">
 							<header class="major">
-								<h2>LATEST NEWS</h2></br>
-								<h4 style="border: none; margin-bottom: none;">{{ site.posts.first.title }}</h4>
-								{{ site.posts.first.excerpt }}
+								<a href="{{ site.posts.first.url }}" style="border: none;">
+									<h2>LATEST NEWS</h2></br>
+									<h4 style="border: none; margin-bottom: none;">
+										{{ site.posts.first.title }}
+									</h4>
+									{{ site.posts.first.excerpt }}
+								</a>
 							</header>
 						</div>
 					</section>

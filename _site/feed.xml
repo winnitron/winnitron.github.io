@@ -7,26 +7,30 @@ arcade machines and games.
 </description>
     <link>http://winnitron.com/</link>
     <atom:link href="http://winnitron.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 01 Dec 2016 20:35:55 -0500</pubDate>
-    <lastBuildDate>Thu, 01 Dec 2016 20:35:55 -0500</lastBuildDate>
+    <pubDate>Thu, 01 Dec 2016 22:07:21 -0500</pubDate>
+    <lastBuildDate>Thu, 01 Dec 2016 22:07:21 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>FTL - Advanced Edition1</title>
-        <description>&lt;p&gt;A free update to the popular FTL game adds new game modes and a new alien species.&lt;/p&gt;
+        <title>Winnitron Release v2-Beta1</title>
+        <description>&lt;p&gt;Heck yeah! Winnitron Network beta is open. If any of you would like to take the new launcher and website out for a spin (and hopefully give us some feedback), that would be awesome.&lt;/p&gt;
 
-&lt;h3 id=&quot;credits&quot;&gt;Credits&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;Editing/Animation&lt;/em&gt; - Marlon Wiebe
-&lt;em&gt;Game&lt;/em&gt; - Subset Games
-&lt;em&gt;Art&lt;/em&gt; - Benjamin Sawyer
-&lt;em&gt;Music&lt;/em&gt; - Ben Prunty&lt;/p&gt;
+&lt;p&gt;Go download the launcher from the &lt;a href=&quot;https://github.com/winnitron/WinnitronLauncher/releases&quot;&gt;GitHub releases page&lt;/a&gt;, there will be installation instructions on the wiki there.&lt;/p&gt;
+
+&lt;p&gt;Go to the &lt;a href=&quot;http://network.winnitron.com&quot;&gt;Winnitron Network site&lt;/a&gt; and sign up, etc.  Don’t judge the design (i.e. lack thereof) too harshly quite yet; we’re mainly looking for bugs and what you think about general workflows etc right now.  Post any issues you have with the site on the relevant &lt;a href=&quot;https://github.com/winnitron/winnitron_reborn/issues&quot;&gt;GitHub issues page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Post feedback or questions on this post or on the &lt;a href=&quot;https://www.reddit.com/r/winnitron/comments/5frgkl/release_winnitron_v2beta1/&quot;&gt;Winnitron Reddit&lt;/a&gt; and submit any glaring issues on our &lt;a href=&quot;https://github.com/winnitron/WinnitronLauncher/issues&quot;&gt;GitHub issues page for the launcher&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Note that everything is still very much a work in progress and we need your help to get it all working smoothly!&lt;/p&gt;
+
+&lt;p&gt;Thanks!&lt;/p&gt;
 </description>
         <pubDate>Thu, 01 Dec 2016 00:00:00 -0500</pubDate>
         <link>http://winnitron.com/news/posts/test</link>
         <guid isPermaLink="true">http://winnitron.com/news/posts/test</guid>
         
         
-        <category>video</category>
+        <category>release</category>
         
       </item>
     
