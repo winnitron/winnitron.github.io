@@ -1,7 +1,7 @@
 ---
 layout:     page
 title:      WINNITRON LAUNCHER v2!
-date:       2016-12-01
+date:       2017-05-03
 categories: release
 comments:   true
 ---
