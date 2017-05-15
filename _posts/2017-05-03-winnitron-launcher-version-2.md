@@ -16,4 +16,4 @@ It's not perfect, we'll need a ton more testing yet, and we still got a [few thi
 
 Don't forget that the [Winnitron Network](http://network.winnitron.com) is constantly being improved as well.  You can manage your winnitron from there, put games on your machine and upload games.
 
-Thanks!
+Thanks!!
