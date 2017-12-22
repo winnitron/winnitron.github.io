@@ -6,7 +6,7 @@ categories: post
 comments:   true
 ---
 
-![WINNITRONv2.2]({{site.url}}/images/posts/2017/winnitron22.gif)
+![WINNITRONv2.2]({{site.url}}/images/posts/2017/Winnitron22.gif)
 
 Have you ever wished there was a way you could see how often people were playing your games on the Winnitron?  Well now you can with the fresh new [Winnitron v2.2](https://github.com/winnitron/WinnitronLauncher/releases)!
 
