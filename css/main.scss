@@ -862,7 +862,7 @@ button,
 	&.fit {
 		display: block;
 		margin: 0 0 (_size(element-margin) * 0.5) 0;
-		width: 100%;
+		width: 110%;
 	}
 
 	&.small {
@@ -1499,7 +1499,7 @@ body.is-menu-visible {
 	@include vendor('flex-direction', 'column');
 	@include vendor('justify-content', 'center');
 	cursor: default;
-	height: 100vh;
+	height: 90vh;
 	min-height: 35em;
 	overflow: hidden;
 	position: relative;

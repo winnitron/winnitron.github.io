@@ -12,19 +12,20 @@ email: hi@winnitron.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://winnitron.com" # the base hostname & protocol for your site
 social:
+  discord: https://discord.gg/8nskr4e
   twitter: https://twitter.com/Winnitron1000
   github: https://github.com/winnitron
   #linkedin-square: https://linkedin.com/in/<username>
   #facebook-official: https://facebook.com/<username>
   #google-plus-square: https://plus.google.com/u/0/+<username>
-  #email: /contact/
+  email: /contact
   #flickr:
   #instagram:
   #youtube-square:
   #spotify:
   #stack-overflow:
   #vimeo:
-  reddit: https://reddit.com/r/winnitron
+  #reddit: https://reddit.com/r/winnitron
   #stubleupon:
   #delicious:
   #pied-piper:
