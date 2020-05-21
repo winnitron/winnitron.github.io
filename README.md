@@ -1,6 +1,11 @@
 # Winnitron Website
 
-Credits:
+Run this thing locally with regular jekyll stuff. `$ bundle install`, `$ jekyll serve`. You got this.
+
+
+
+
+## Credits:
 
   Spectral by HTML5 UP
   html5up.net | @n33co
