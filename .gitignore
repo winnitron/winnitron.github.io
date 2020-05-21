@@ -1,2 +1,5 @@
 _errorpages
-scss/.sass-cache
+_site
+.sass-cache
+.jekyll-cache
+
