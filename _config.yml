@@ -11,6 +11,8 @@ first_published: 2016 # if migrating another site, the year of your first publis
 email: hi@winnitron.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://winnitron.com" # the base hostname & protocol for your site
+plugins:
+   - jekyll-paginate
 social:
   discord: https://discord.gg/8nskr4e
   twitter: https://twitter.com/Winnitron1000
