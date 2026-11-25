@@ -1273,6 +1273,10 @@ button,
 
 	&.style5 {
 		@include wrapper(accent7);
+
+		h1 {
+			color: #2e3842;
+		}
 	}
 
 	@include breakpoint(medium) {
@@ -1847,4 +1851,19 @@ body.is-mobile {
 			background-color: darken(_palette(bg), 8);
 		}
 	}
+}
+
+
+
+/* MY HACKY FIXES FOR BS */
+
+#three {
+	p, h1, h2, h3, h4, h5, h6 {
+		color: #ffffff;
+	}
+}
+
+.icon-inline {
+	float: left;
+	padding-right: 10px;
 }
